@@ -86,11 +86,9 @@ section{
 
 .header .logo h1{
     text-transform: uppercase;
-    font-size: 3.5rem;
-    background-image: url(rr.jfif);
-    background-clip: text;
-    color: transparent;
-    background-color: white;
+    font-size: 2.5rem;
+    color:#b2692e;
+    ;
 }
 
 .header .navbar a{
@@ -453,7 +451,7 @@ section{
 @media (max-width:991px){
 
     html{
-        font-size: 55%;
+        font-size: 49%;
     }
 
     .header{
